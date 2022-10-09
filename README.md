@@ -1,4 +1,4 @@
-# ADAPTIVE-P0REDICTIVE-CONTROLLERS
+# ADAPTIVE-PREDICTIVE-CONTROLLERS
 Adaptive and non adaptive predictive controllers such as (with white and colored noises):
 - one-step ahead controller
 - weighted one-step ahead controller
